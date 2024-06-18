@@ -7,6 +7,7 @@
 
 ## Description
 
+![image Screenshot ](./img/screenshot-01.png)
 The Page Views Tracker plugin records page views on WordPress posts. It tracks views when posts are viewed on the site, fetched from the REST API, or queried via WPGraphQL. The plugin also displays the page views in the WordPress admin post list and includes the views in the REST API and WPGraphQL responses.
 
 ## Features
